@@ -1,7 +1,6 @@
 # mon_portfolio
-# Mon Portfolio
 
-Bienvenue sur mon portfolio en ligne ! Je suis étudiant en Master 1 de Modélisation et Analyse Numérique à l'Université de Montpellier.
+Bienvenue sur mon portfolio en ligne ! Je suis étudiant en Master  de Modélisation et Analyse Numérique à l'Université de Montpellier.
 
 ## À propos
 
@@ -170,6 +169,23 @@ fetch('travaux.json')
     "pdf": "pdf/geo_diff.pdf"
   }
 ]
+<section id="travaux">
+    <h2>Mes Travaux</h2>
+    <div class="travaux-list">
+        <div class="travail">
+            <h3>Projet d'Optimisation</h3>
+            <p>Description du projet d'optimisation que tu as réalisé. Tu peux parler des méthodes utilisées, des résultats obtenus, etc.</p>
+        </div>
+        <div class="travail">
+            <h3>Analyse Numérique</h3>
+            <p>Description d'un projet ou exercice en analyse numérique. Par exemple, la résolution d'une équation différentielle.</p>
+        </div>
+        <div class="travail">
+            <h3>Projet en Géométrie Différentielle</h3>
+            <p>Description d'un projet ou étude en géométrie différentielle.</p>
+        </div>
+    </div>
+</section>
 
 
 ## Comment naviguer
